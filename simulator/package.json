@@ -1,0 +1,20 @@
+{
+  "name": "spin-coating-simulator",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Web-based interactive simulator for the Emslie-Bonner-Peck spin-coating thin-film theory with Meyerhofer evaporation extension. Companion to the Fluid Mechanics term paper, SKKU 2026 Spring.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.0"
+  }
+}
